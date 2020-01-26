@@ -16,5 +16,5 @@ So submit a pull request within the stipulated time along with a readme file tha
 Matrix Agents
 ## XYZ
 - [a](https://github.com/aadig15)
-- [b](https://github.com/animeshrdso)
-- [c](https://github.com/dibyakanti)
+- [animeshrdso](https://github.com/animeshrdso)
+- [Dibyakanti](https://github.com/Dibyakanti)
