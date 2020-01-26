@@ -9,3 +9,8 @@ The rules for AI Hackathon will be updated shortly
 - [a](https://github.com/a)
 - [b](https://github.com/b)
 - [c](https://github.com/c)
+
+## Intelliqo
+- [a](https://github.com/a)
+- [b](https://github.com/b)
+- [c](https://github.com/c)
