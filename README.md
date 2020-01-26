@@ -2,6 +2,7 @@
 
 The rules for AI Hackathon will be updated shortly 
 
+
 # Team_Name 
 
 ## XYZ
