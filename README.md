@@ -18,3 +18,8 @@ So submit a pull request within the stipulated time along with a readme file tha
 - [a](https://github.com/a)
 - [b](https://github.com/b)
 - [c](https://github.com/c)
+
+## Intelliqo
+- [Eshwar Nukala](https://github.com/eshwar28)
+- [Neeraja J](https://github.com/jayne228)
+- [Shrey Jani](https://github.com/jani-boop)
