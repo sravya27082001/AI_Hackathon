@@ -5,7 +5,7 @@
 Some key pointers:
 1. Identify a problem you are passionate about
 2. Then find a relevant dataset(It may be small but that is where transfer learning becomes important)
-3. Use a suitable mdoel and apply the learnings
+3. Use a suitable model and apply the learnings
 
 
 
