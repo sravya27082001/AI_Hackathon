@@ -13,8 +13,8 @@ So submit a pull request within the stipulated time along with a readme file tha
 
 
 # Team_Name 
-Matrix Agents
-## XYZ
+
+## Matrix Agents
 - [Aadi](https://github.com/aadig15)
 - [Animesh](https://github.com/animeshrdso)
 - [Dibyakanti](https://github.com/Dibyakanti)
