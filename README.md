@@ -2,10 +2,9 @@
 
 The rules for AI Hackathon will be updated shortly 
 
- ## Members
- ## Team_Name
+##  Team_Name 
 
-- [XYZ]
+# XYZ
 - [a](https://github.com/a)
 - [b](https://github.com/b)
 - [c](https://github.com/c)
